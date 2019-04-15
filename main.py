@@ -5,7 +5,7 @@ import time
 # url - Pixieset gallery url
 # psw - Password to check
 # driver - Selenium broser to use
-def tryPass(url, psw, driver):
+def tryPass(https://nalajoliephotography.pixieset.com/illbethereforyou/, psw, driver):
 	driver.delete_all_cookies()
 	driver.get(url)
 	
